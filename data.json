@@ -75,6 +75,12 @@
             "customer_id": 5,
             "date": "2022-01-02",
             "amount": 875
+        },
+        {
+            "id": 3,
+            "customer_id": 2,
+            "date": "2022-01-03",
+            "amount": 550
         }
     ]
 }
